@@ -18,8 +18,14 @@ public class ProvaBMain {
 			Integer[i] = ler.nextLine();
 			
 		}
-		for(int i=0; i<vetor.length; i++) {
-			system.
+
+		
+		int calcula(){
+			for(int i=0; i<vetor.length; i++) {
+				
+			}
+			
+			return 0;
 		}
 		
 		
