@@ -12,10 +12,8 @@ public class ProvaBMain {
 
 		for(int i=0; i<vetor.length; i++) {
 			
-			Integer
-			
 			System.out.printf("Informe o %dº valor:\n", i+1);
-			Integer[i] = ler.nextLine();
+			vetor[i] = ler.nextLine();
 			
 		}
 
